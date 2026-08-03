@@ -1,23 +1,5 @@
 [
-  {
-    "repository": "github/gitignore",
-    "owner": "github",
-    "description": "A collection of useful .gitignore templates",
-    "stargazers_count": 140000,
-    "language": "Shell"
-  },
-  {
-    "repository": "microsoft/vscode",
-    "owner": "microsoft",
-    "description": "Visual Studio Code, a lightweight but powerful source code editor",
-    "stargazers_count": 170000,
-    "language": "TypeScript"
-  },
-  {
-    "repository": "vercel/next.js",
-    "owner": "vercel",
-    "description": "The React framework for production",
-    "stargazers_count": 120000,
-    "language": "JavaScript"
-  }
+  { "name": "octocat/Hello-World", "starred": "2024-01-15" },
+  { "name": "github/docs", "starred": "2024-02-02" },
+  { "name": "octo-org/octo-repo", "starred": "2024-03-21" }
 ]
